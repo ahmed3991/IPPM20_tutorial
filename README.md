@@ -4,7 +4,7 @@ Simple tutorial on Machine Learning with Scikit-Learn.
 The goal is to get basic understanding of various techniques.
 
 
-## pre_requis
+## Tools
 
 Install Anaconda or miniconda or using google Colab
 
