@@ -3,7 +3,7 @@
 Simple tutorial on Machine Learning with Scikit-Learn and tensorflow High level Api -Keras-. 
 The goal is to get basic understanding of various techniques.
 
-(Qr.png)
+![qrCode](Qr.png)
 
 ## Tools
 
