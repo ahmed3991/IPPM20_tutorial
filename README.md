@@ -31,6 +31,6 @@ Using neural networks to identify clothing items!
 
 In this project, we will demonstrate how to use the Keras neural network library to perform image classification on the Fashion MNIST dataset from Zalando. We will initially demonstrate how we can use a multilayer perceptron model to achieve 89.65% accuracy on the test set.
 
-The project was based off of the Keras MNIST tutorial by wxs.
+The project was based off of the  [Keras MNIST tutorial](https://github.com/nadia1123/fashion-mnist-keras) by [nadia1123](https://github.com/nadia1123).
 
 
