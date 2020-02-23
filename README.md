@@ -7,7 +7,7 @@ The goal is to get basic understanding of various techniques.
 ## Tools
 
 Install Anaconda or miniconda or using google Colab
-
+To install Environment in Conda tap `conda env create -f myenv.yml`
 
 ## Description
 
